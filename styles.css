@@ -1,5 +1,5 @@
 #banner {
-    background-image: url(./IMG/david\ 1006\ banner.jfif);
+    background-image: url(./IMG/Presentación\ Propuesta\ Framework\ Tecnológico\ Abstracto\ Verde.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     width: 100%;
@@ -13,16 +13,33 @@
     justify-content: space-evenly;
     gap: 10px;
 }
+#card1 {
+    width: 350px;
+    height: 350px;
+    background-image: url(./IMG/html.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
 
-#card1, #card2, #card3 {
-    width: 300px;
-    height: 420px;
-    background-color: #4559a1;
+#card2 {
+    width: 350px;
+    height: 350px;
+    background-image: url(./IMG/descarga\ \(1\).jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#card3 {
+    width: 350px;
+    height: 350px;
+    background-image: url(./IMG/descarga.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 footer {
-    background-color: #242323;
-    height: 40px;
+    background-color: #742b2b;
+    margin-top: 400px;
     width: 100%;
-    margin-top: 40px;
+    height: 400px;
 }
